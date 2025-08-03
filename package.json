@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20250803.0",
+    "fflate": "^0.8.2"
+  }
+}

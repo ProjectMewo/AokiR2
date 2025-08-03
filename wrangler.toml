@@ -1,0 +1,12 @@
+name = "aokir2"
+compatibility_date = "2024-08-01"
+
+main = "main.ts"
+
+[[r2_buckets]]
+binding = "MAPPACKS"
+bucket_name = "mappools"
+
+[observability]
+enabled = true
+head_sampling_rate = 1
