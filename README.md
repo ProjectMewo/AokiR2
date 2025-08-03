@@ -36,7 +36,7 @@ Saying it needs a card doesn't mean it *charges* you. It will charge you if you 
 
 A domain. Now this should lure the remaining 25% of script kiddies out of here, because that domain should be yours and added to Cloudflare itself. That'll cost you a few bucks.
 
-The domain is for your CDN URL, else CCloudflare won’t let you expose your bucket publicly, which also stops your users from downloading anything off your bucket. Ignore the technical stuff about the CDN URL and whatever else.
+The domain is for your CDN URL, else Cloudflare won’t let you expose your bucket publicly, which also stops your users from downloading anything off your bucket. Ignore the technical stuff about the CDN URL and whatever else.
 
 A Worker base already configured. Do this on your Cloudflare dashboard, navigate to `Compute (Workers)` and do as instructed.
 
